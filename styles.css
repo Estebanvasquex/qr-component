@@ -1,0 +1,44 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    background-color: #D3DFED;
+    font-family: sans-serif;
+    font-size: 1.2rem;
+
+
+}
+
+.cardqr{
+    position: relative;
+    background-color: white;
+    top: 30vh;
+    width: 400px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+    
+}
+
+.img_cardqr{
+    border-radius: 20px;
+    bottom: 200px;
+    top: 300px;
+    width: 90%;
+    height: 400px;
+
+    
+}
+
+.img_container{
+    size: 20px;
+
+
+}
